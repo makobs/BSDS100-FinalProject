@@ -1,4 +1,4 @@
-# University of San Francisco | [BSDS100](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021.git) - Final Project
+# [BSDS100](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021.git) - Final Project
 ## David Chung & Mia Kobayashi<br/>Professor Michael Ruddy<br/>17 May 2021
 
 Dataset taken from [Kaggle](https://www.kaggle.com/).
