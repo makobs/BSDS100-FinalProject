@@ -9,7 +9,7 @@ The dataset from Kaggle included 4 files, a movies, ratings, a names, and a titl
 
 For this project, we only chose to look at the movies dataset as it included attributes like movie title and title id, average rating, number of votes, genre (up to 3), year and date of release, the country the movie was produced in, budget, etc.  And the other datasets didn’t have information that was pertinent to the analyzations we wanted to perform.
 
-#### The Comparisons:
+#### The Comparisons & Hypotheses:
 - Country vs. Number of Movies Produced
   - Time (year) vs. Top 3 Countries' Number of Movies Produced
 - Time (year) vs. Movie Ratings
