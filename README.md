@@ -10,7 +10,7 @@ For this project, we only chose to look at the movies dataset as it included att
 #### The Comparisons:
 - Country vs. Number of Movies Produced (over the time frame of the dataset)
 - Time (year) vs. Movie Ratings
- - Time (month) vs. Movie Ratings
+  - Time (month) vs. Movie Ratings
 - Time (year) vs. Movie Budget
 - Budget vs. US Gross Income in the U.S.
 - Budget, Metascore, Average Vote vs. Gross Income in the U.S.
