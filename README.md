@@ -1,7 +1,5 @@
 # BSDS100 - FinalProject
-## David Chung & Mia Kobayashi
-## Professor Michael Ruddy
-## 17 May 2021
+## David Chung & Mia Kobayashi<br/>Professor Michael Ruddy<br/>17 May 2021
 
 Dataset taken from [Kaggle](https://www.kaggle.com/).
 For this project, we specifically looked at the [IMDb Movies Extensive Dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset) that includes 85,855 movies from 1874 to planned movies released in 2027.
