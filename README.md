@@ -1,4 +1,4 @@
-# BSDS100 - FinalProject
+# University of San Francisco | BSDS100 - Final Project
 ## David Chung & Mia Kobayashi<br/>Professor Michael Ruddy<br/>17 May 2021
 
 Dataset taken from [Kaggle](https://www.kaggle.com/).
@@ -22,7 +22,7 @@ Genre vs. Average Vote | Biographies and drama will have the highest average vot
 Average Vote vs. Metascore | As the average vote increases, so will the metascore. | Supported.
 
 
-### Closing Remarks
+## Closing Remarks
 We chose this dataset because we thought that we'd find useful relationships between the variables with the addition of finding movies to be an interesting topic and something that a lot of people watch -- we wanted to see if there were correlations between the given data.  
 
 Top 2 Intresting trends / finds within the data:
