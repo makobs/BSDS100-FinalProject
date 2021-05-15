@@ -21,6 +21,7 @@ Duration vs. Genre | Movies with the genre of history, biography, and war will h
 Genre vs. Average Vote | Biographies and drama will have the highest average vote score while adult and comedy will have the lowest avg vote score. | Partially supported -- adult films had the lowest score.
 Average Vote vs. Metascore | As the average vote increases, so will the metascore. | Supported.
 
+For all analyzations, click [here]().
 
 ## Closing Remarks
 We chose this dataset because we thought that we'd find useful relationships between the variables with the addition of finding movies to be an interesting topic and something that a lot of people watch -- we wanted to see if there were correlations between the given data.  
