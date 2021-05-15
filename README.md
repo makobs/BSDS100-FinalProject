@@ -25,6 +25,7 @@ For this project, we only chose to look at the movies dataset as it included att
 
 #### Closing Remarks:
 We chose this dataset because we thought that we'd find useful relationships between the variables with the addition of finding movies to be an interesting topic and something that a lot of people watch -- we wanted to see if there were correlations between the given data.  
+
 Top 2 Intresting trends / find within the data:
 - When comparing the average rating by month, for all the years combined, it was interesting to see that some months “performed” better or had higher ratings than others, specifically the late fall / early winter months.
 - 
