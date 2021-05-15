@@ -9,7 +9,8 @@ For this project, we only chose to look at the movies dataset as it included att
 
 
 
-## Analyzations
+## Analyzations Summary
+### Click on each individual comparison to see the full analyzation.
 **The Comparison** | **Hypothesis** | **Hypothesis Supported / Rejected**
 --- | --- | ---
 [Country vs. Total Number of Movies Produced](https://github.com/makobs/BSDS100-FinalProject/blob/d97cd25445520dc71cbcf6961dcca7be3b56c753/1%20-%20Country%20v.%20Total%20Number%20of%20Movies%20Produced.ipynb) | The USA will be the country that makes the most movies, with European countries following suit, then Asian. | Partially supported -- USA did make the most movies.
