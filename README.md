@@ -1,5 +1,6 @@
 # BSDS100 - FinalProject
 ### David Chung, Mia Kobayashi
+### Professor Michael Ruddy
 ### 17 May 2021
 
 Dataset taken from [Kaggle](https://www.kaggle.com/).
