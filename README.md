@@ -22,7 +22,7 @@ For this project, we only chose to look at the movies dataset as it included att
 [Genre vs. Average Vote](https://github.com/makobs/BSDS100-FinalProject/blob/f48069d7359a4db2e512d150b0428fca8545c4f2/Individual_Comparisons/7%20-%20Genre%20v.%20Average%20Vote.ipynb) | Biographies and drama will have the highest average vote score while adult and comedy will have the lowest avg vote score. | Partially supported -- adult films had the lowest score.
 [Average Vote vs. Metascore](https://github.com/makobs/BSDS100-FinalProject/blob/f48069d7359a4db2e512d150b0428fca8545c4f2/Individual_Comparisons/8%20-%20Average%20Vote%20v.%20Metascore.ipynb) | As the average vote increases, so will the metascore. | Supported.
 
-For all analyzations, click [here](https://github.com/makobs/BSDS100-FinalProject/blob/b82fa8dbb8f760f02ddfdb970fb3cb15e07624b1/05.17%7CFinalProject-full.ipynb).
+For all analyzations, click [here](https://github.com/makobs/BSDS100-FinalProject/blob/2e03f82da0ea77017e022d9c0db132343aac422e/05-17_FinalProject-full.ipynb).
 
 ## Closing Remarks
 We chose this dataset because we thought that we'd find useful relationships between the variables with the addition of finding movies to be an interesting topic and something that a lot of people watch -- we wanted to see if there were correlations between the given data.  
