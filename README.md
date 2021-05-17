@@ -29,7 +29,7 @@ We chose this dataset because we thought that we'd find useful relationships bet
 
 Top 2 Intresting trends / finds within the data:
 - When comparing the average rating by month, for all the years combined, it was interesting to see that some months “performed” better or had higher ratings than others, specifically the late fall / early winter months.
-- When comparing the average vote in relation to the metascore, the relationship between the two variables was more linear than expected as we personally feel that critics don't always agree with the masses.
+- When comparing the average vote in relation to the metascore, the relationship between the two variables was more linear than expected as we personally feel that critics don't always agree with the general public, but we were glad to see this trend pan out.
 
 Datasets [here](https://github.com/makobs/BSDS100-FinalProject/tree/main/IMDbMovies_ExtensiveDataset_Kaggle).  
 Note: The _names.csv_ file was not uploaded to this GitHub Repository due to its large file size.
